@@ -8,6 +8,13 @@ Here is your content structured into bullet points for a clean and readable **Gi
 ---
 -->
 
+```markdown
+Teammates:
+1. Maria Paul T
+2. Rose Joseph
+```
+
+
 # Emotion-Detection-Model
 
 * **Dataset Source:**
