@@ -45,11 +45,6 @@ Here is your content structured into bullet points for a clean and readable **Gi
   * Convolutional layers are applied to raw pixel data  
   * Extracted features are used to **classify facial expressions**
 
-
-```
-``
-Teammates:
+* **Teammates:**
 1. Maria Paul T
 2. Rose Joseph
-```
-----
