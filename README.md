@@ -8,11 +8,6 @@ Here is your content structured into bullet points for a clean and readable **Gi
 ---
 -->
 
-```markdown
-Teammates:
-1. Maria Paul T
-2. Rose Joseph
-```
 
 
 # Emotion-Detection-Model
@@ -50,5 +45,10 @@ Teammates:
   * Convolutional layers are applied to raw pixel data  
   * Extracted features are used to **classify facial expressions**
 
----
 
+```
+Teammates:
+1. Maria Paul T
+2. Rose Joseph
+```
+----
